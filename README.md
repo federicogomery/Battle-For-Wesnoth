@@ -219,4 +219,4 @@ Battle for Wesnoth is offered as a complete free version with all features and u
 Ready to embark on your epic adventure? **Download Battle for Wesnoth now and lead your army to victory!**
 
 ---
-**Last updated:** 2026-11-10 22:15:28 UTC
+**Last updated:** 2026-11-11 02:39:34 UTC
